@@ -31,6 +31,8 @@
 | **AI Shorts** | AI 자동화 YouTube Shorts 파이프라인 | Python, Gemini, ElevenLabs, Go | [ai-shorts.shaul.kr](https://ai-shorts.shaul.kr) |
 | **Company Website** | tech-org 소개 + 포트폴리오 + 프로젝트 문의 | HTML, Tailwind, Alpine.js, Go | [www.shaul.kr](https://www.shaul.kr) |
 | **Developer Resume** | 개발자 이력서 사이트 | HTML, Tailwind, Go | [resume.shaul.kr](https://resume.shaul.kr) |
+| **Crelink (크리링)** | SNS·대표 작업·협업 문의 링크를 한 페이지와 짧은 주소로 정리하는 크리에이터 서비스. Google 로그인 후 본인 URL을 직접 입력·저장합니다. 기본 외부 링크 5개 무료, 크리링 자체 광고 표시. 회사 AI PM이 안내를 관리합니다. | Next.js, NestJS, PostgreSQL | [시작하기](https://links.shaul.kr) · [협업 프로필 가이드](https://links.shaul.kr/docs/creator-portfolio-page) · [프로젝트·의견](https://github.com/ai-worker-lab/crelink/discussions/111) |
+
 
 ## Tech Stack
 
